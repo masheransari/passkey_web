@@ -1,0 +1,17 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.karwatechnologies.customcred",
+      "sha256_cert_fingerprints" : [
+        "3F:84:E0:23:2F:2F:7A:D6:A8:58:EA:BF:21:6A:C2:15:CE:D6:E2:7A:E8:66:2A:EB:D9:A6:B5:61:8E:B6:4C:DE",
+        "82:D5:74:28:7E:04:07:34:06:48:5A:D4:D3:EA:6A:98:6B:26:2A:A6:CC:70:CD:14:00:26:81:8D:5F:A7:32:7D",
+        "A5:F0:35:48:32:9D:10:81:13:19:CE:A0:62:22:3A:31:B9:05:1B:17:9F:3E:CD:B2:28:B9:ED:14:54:45:54:61"
+      ]
+    }
+  }
+]
