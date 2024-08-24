@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 let users = {};
 let challenges = {};
 const rpId = 'com.karwatechnologies.customcred';
-const expectedOrigin = ['http://localhost:3300', 'https://allinone.boomerce.com', 'android:apk-key-hash:P4TgIy8vetaoWOq_IWrCFc7W4nroZirr2aa1YY62TN4'];
+const expectedOrigin = ['http://localhost:3300', 'https://passkey-web.onrender.com/', 'android:apk-key-hash:P4TgIy8vetaoWOq_IWrCFc7W4nroZirr2aa1YY62TN4'];
 
 app.listen(process.env.PORT || 3300, err => {
     if (err) throw err;
